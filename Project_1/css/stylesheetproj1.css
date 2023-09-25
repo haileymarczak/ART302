@@ -1,0 +1,99 @@
+body{
+    background-color: #fffceb;
+}
+
+
+h1{
+    color:rgb(159, 43, 37);
+    background-color: #fffceb;
+    font-family: "pacifico", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2cm;
+    margin-right: 30%;
+    margin-left: 30%;
+    line-height: .30;
+    padding-bottom: 0%;
+    padding-top: 0%;
+}
+p1{
+    font-family: "open-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #fffceb;
+    font-size:small;
+}
+
+ol{
+color: #507698;
+font-family: "open-sans", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:small;
+}
+
+ul{
+color: #fffceb;
+font-family: "open-sans", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size:small;
+line-height: 2;
+}
+
+img{
+    float: left;
+    align-items: vertical;
+    height: 300px;
+    width: 270px;
+    background-color: #fffceb;
+    line-height: .30;
+}
+
+.ingredients{
+    float: right;
+    height: 500px;
+    width: 700px;
+    background-color: #507698;
+    font-size:xx-large;
+    line-height: 2;
+    padding-left: 1cm;
+}
+
+h2{
+    color: #fffceb;
+    font-family: "pacifico", sans-serif;
+    font-size:xx-large;
+    line-height: 2;
+}
+h3{
+    color:#507698;
+    font-family: "pacifico", sans-serif;
+    font-size:xx-large;
+    line-height: 2;
+}
+.description{
+    float: right;
+    height: 300px;
+    width: 1100px;
+    background-color: #92352b;
+    line-height: 2;
+    padding-left: 1cm;
+}
+
+.steps{
+    background-color: #fffceb;
+    height: 500px;
+    width: 700px;
+}
+
+.topnavigation{
+    font-family: "pacifico", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: .70cm;
+    color: #fffceb;
+    background-color: #fffceb;
+    padding-left: 15cm;
+}
+
